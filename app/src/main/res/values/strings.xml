@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PolywrapMobile</string>
+    <!-- Strings related to invoke -->
+    <string name="prompt_uri">Uri</string>
+    <string name="prompt_method">Method</string>
+    <string name="prompt_args">Args</string>
+    <string name="action_invoke">Invoke</string>
+</resources>
